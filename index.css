@@ -1,0 +1,24 @@
+.contenedor{
+  
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    
+}
+
+.izquierda{
+    
+    width: 40%;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+
+}
+.derea{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div{
+    background: #ccc;
+}
